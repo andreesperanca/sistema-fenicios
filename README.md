@@ -1,7 +1,7 @@
 <h1 align="center">Fenícios - Sistema de delivery</h1>
 
 <p> 
-  O Sistema Fenícios é composto de duas aplicações, ambas mobile uma feita apenas para interação com o usuário e outra apenas para o proprietário do estabelecimento, onde pode acessar e ter controle de seu aplicativo com privilégios como criar/excluir/modificar produtos, controle financeiro, receber pedidos e modificar o status dos mesmos entre três estados [Pendente, Em preparo e Enviado] entre outras funcionalidades. </p>
+  Fenícios é um sistema de delivery que é composto de duas aplicações, ambas mobile uma feita apenas para interação com o usuário e outra apenas para o proprietário do estabelecimento, onde pode acessar e ter controle de seu aplicativo com privilégios como criar/excluir/modificar produtos, controle financeiro, receber pedidos e modificar o status dos mesmos entre três estados [Pendente, Em preparo e Enviado] entre outras funcionalidades. </p>
 
 <h1 align="center">Aplicação em desenvolvimento</h1>
 
