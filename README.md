@@ -7,8 +7,8 @@
 
 ## Repositório das Aplicações
 
-- Fenícios para usuários -> [clique aqui](https://kotlinlang.org/)
-- Fenícios para proprietários -> [clique aqui](https://firebase.google.com/)
+- Fenícios para usuários -> [clique aqui](https://github.com/andreesperanca/app_user_fenicios)
+- Fenícios para proprietários -> [clique aqui](https://github.com/andreesperanca/app_owner_fenicios)
 
 ## Tecnologias
 
