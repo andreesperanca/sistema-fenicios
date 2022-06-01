@@ -5,23 +5,12 @@
 
 <h1 align="center">Aplicação em desenvolvimento</h1>
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Repositório das Aplicações](#repositório-das-aplicações-book)
-   * [Tecnologias](#tecnologias-rocket)
-   * [Fotos](#screenshots-camera)
-   * [Gifs](#gifs-movie_camera)
-   * [Autor](#autor) 
-<!--te-->
-
-
-## Repositório das Aplicações :book:
+## Repositório das Aplicações
 
 - Fenícios para usuários -> [clique aqui](https://kotlinlang.org/)
 - Fenícios para proprietários -> [clique aqui](https://firebase.google.com/)
 
-## Tecnologias :rocket:
+## Tecnologias
 
 As seguintes ferramentas estão sendo utilizadas no desenvolvimento do projeto:
 
@@ -30,13 +19,6 @@ As seguintes ferramentas estão sendo utilizadas no desenvolvimento do projeto:
 - [Lottie](https://lottiefiles.com/)
 - [Glide](https://github.com/bumptech/glide)
 - [Mercado Pago API](https://www.mercadopago.com.br/developers/pt/docs/checkout-pro/landing)
-
-## Screenshots :camera: 
-
-<h1 align="center">
-  <img style="border-radius: 50%;" src="./assets/login.png" width="250px;" alt=""/>
-  <img style="border-radius: 50%;" src="./assets/verifyLogin.png" width="250px;" alt=""/>
-  </h1>
   
 ## Autor
 
